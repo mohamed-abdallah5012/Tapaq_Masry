@@ -1,0 +1,42 @@
+<resources>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="app_name">وصفات وماكولات مصرية </string>
+    <string name="action_settings">الاعدادت</string>
+    <string name="action_rating">قيم التطبيق</string>
+    <string name="action_about">عن التطبيق</string>
+    <string name="action_more">تطبيقات اخرى</string>
+    <string name="action_share"> مشاركة التطبيق</string>
+
+    <string name="large_text">وصفات ومأكولات عربية شهية </string>
+    <string name="enter">دخول</string>
+    <string-array name="index">
+        <item>طريقة عمل البليلة المصرية</item>
+        <item>طريقة عمل الزلابية المصرية</item>
+        <item>طريقة عمل الحواوشى الاسكندرانى</item>
+        <item>طريقة عمل الطعمية المصرية</item>
+        <item>طريقة عمل المسقعة المصرية</item>
+        <item>طريقة عمل الغريبة المصرية</item>
+        <item>كيف اطبخ الرز المصري</item>
+        <item>كيف اطبخ الفراخ</item>
+        <item>كيفية عمل الفول</item>
+        <item>طريقة عمل الكشري المصري</item>
+        <item>طريقة عمل البسبوسة المصرية</item>
+        <item>طريقة عمل التمر هندي الطبيعي</item>
+        <item>طريقة طبخ الحمام</item>
+        <item>طريقة عمل ملوخية بالجمبري</item>
+        <item>طريقة عمل الرقاق الطري باللحمة المفرومة</item>
+        <item>طريقة عمل الممبار المصري</item>
+        <item>طريقة عمل الكبدة الإسكندراني</item>
+        <item>طريقة عمل العصيدة</item>
+        <item>طريقة الملوخية المصرية بالأرانب</item>
+        <item>طريقة عمل الرقاق باللبن</item>
+        <item>عمل الهريسة المصرية</item>
+        <item>طريقة عمل الفراخ بالفريك</item>
+        <item>طريقة الفتة المصرية</item>
+        <item>طريقة عمل المقلوبة المصرية</item>
+        <item>طريقة ومكونات كباب الحلة</item>
+
+
+
+    </string-array>
+</resources>
