@@ -1,4 +1,4 @@
-package com.example.tapqmasry;
+package com.mohamedabdallah.tapqmasry;
 
 import org.junit.Test;
 
